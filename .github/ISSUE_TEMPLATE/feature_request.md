@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: feature descryption
-title: ''
+title: "[Feature] "
 labels: ''
 assignees: ''
 
